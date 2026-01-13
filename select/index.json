@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "We are",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-01-13T09:51:45.914522Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We Are Never Ever Getting Back Together",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_We_Are_Never_Ever_Getting_Back_Together_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We Are One",
+      "artist": "Hootie & The Blowfish",
+      "has_synced": false,
+      "path": "select/02_We_Are_One_Hootie_&_The_Blowfish.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We Are the Cowboys",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/03_We_Are_the_Cowboys_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We Are the Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/04_We_Are_the_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "We Are The Champions",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/05_We_Are_The_Champions_Queen.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We Are Hungry Men",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/06_We_Are_Hungry_Men_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "We Are Hungry Men - mono",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/07_We_Are_Hungry_Men_-_mono_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We Are The Dead - 1999 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/08_We_Are_The_Dead_-_1999_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We Are The Dead",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/09_We_Are_The_Dead_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where We Are About to Take It",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/10_Where_We_Are_About_to_Take_It_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We Are All Accelerated Readers",
+      "artist": "Los Campesinos!",
+      "has_synced": true,
+      "path": "select/11_We_Are_All_Accelerated_Readers_Los_Campesinos!.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We Are Back",
+      "artist": "LFO",
+      "has_synced": false,
+      "path": "select/12_We_Are_Back_LFO.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "We Are Beautiful, We Are Doomed",
+      "artist": "Los Campesinos!",
+      "has_synced": false,
+      "path": "select/13_We_Are_Beautiful,_We_Are_Doomed_Los_Campesinos!.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "We are Gods! We are Wolves!",
+      "artist": "Le Loup",
+      "has_synced": true,
+      "path": "select/14_We_are_Gods!_We_are_Wolves!_Le_Loup.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "For We Are the King of the Boudoir",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/15_For_We_Are_the_King_of_the_Boudoir_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "We Are",
+      "artist": "Hiroshi Kitadani",
+      "has_synced": true,
+      "path": "select/16_We_Are_Hiroshi_Kitadani.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "who we are",
+      "artist": "S-X",
+      "has_synced": false,
+      "path": "select/17_who_we_are_S-X.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "We Are All Made of Stars",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/18_We_Are_All_Made_of_Stars_Moby.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "We are",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_We_are_ONE_OK_ROCK.txt"
+    }
+  ]
+}
